@@ -4,6 +4,9 @@
 #дирректории
 /.idea/*
 /target/*
+/src/main/java/META-INF/*
 
 #файлы
 /stepicWebServise.iml
+*.jar
+
